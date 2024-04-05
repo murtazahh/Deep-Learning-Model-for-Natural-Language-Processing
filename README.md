@@ -19,3 +19,8 @@ Our optimization efforts aim to refine the model's performance while addressing 
 
 # Conclusion
 The application of deep learning models for NLP in the context of ECG signal classification has the potential to significantly advance cardiac care. Through meticulous preprocessing, model development, and optimization, we strive to enhance diagnostic accuracy and healthcare workflows, contributing to better patient outcomes and the progression of preventive medicine. This project embodies our commitment to leveraging cutting-edge technology in the pursuit of improving cardiac health monitoring and diagnosis.
+
+# Obtaining the Dataset
+For those interested in accessing the dataset used in this project or seeking further information, please feel free to reach out via email. I am available to provide the necessary resources and answer any questions you may have regarding our work. Contact me at: callmemurtazah@gmail.com
+
+We appreciate your interest and look forward to engaging with fellow researchers and practitioners aiming to advance the field of cardiac health monitoring and diagnosis through deep learning.
